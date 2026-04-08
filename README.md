@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-03-26 at 19 34 02](https://github.com/user-attachments/assets/9c7dc350-8673-45de-877e-62987f98a5b0)# FIR-FILTER-DESIGN
+
 # EXP 4 b: Design-of-FIR-Digital-Filter-using-Hamming-Window
 
 # AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Hamming-Window using SCILAB.
